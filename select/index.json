@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Eutopia",
+  "base_artist": "鐘 嵐珠 (CV.法元明菜)",
+  "createdAt": "2025-12-14T05:37:27.224869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tierra Dura (Eutopia)",
+      "artist": "Rubén Blades",
+      "has_synced": false,
+      "path": "select/01_Tierra_Dura_(Eutopia)_Rubén_Blades.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eutopia",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "has_synced": true,
+      "path": "select/02_Eutopia_鐘_嵐珠_(CV.法元明菜).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eutopia",
+      "artist": "鐘嵐珠 (法元明菜)",
+      "has_synced": true,
+      "path": "select/03_Eutopia_鐘嵐珠_(法元明菜).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Venus & Jesus (RADIO ONSEN EUTOPIA)",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/04_Venus_&_Jesus_(RADIO_ONSEN_EUTOPIA)_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eutopia",
+      "artist": "鐘嵐珠(CV.法元明菜)",
+      "has_synced": true,
+      "path": "select/05_Eutopia_鐘嵐珠(CV.法元明菜).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eutòpia",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/06_Eutòpia_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eutopia (Fade Away)",
+      "artist": "Example feat. Laidback Luke",
+      "has_synced": true,
+      "path": "select/07_Eutopia_(Fade_Away)_Example_feat._Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eutopia (Fade Away)",
+      "artist": "Example; Laidback Luke",
+      "has_synced": true,
+      "path": "select/08_Eutopia_(Fade_Away)_Example;_Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dystopian′s Eutopia",
+      "artist": "NELL",
+      "has_synced": true,
+      "path": "select/09_Dystopian′s_Eutopia_NELL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "北風小僧の寒太郎 (RADIO ONSEN EUTOPIA)",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": false,
+      "path": "select/10_北風小僧の寒太郎_(RADIO_ONSEN_EUTOPIA)_YAKUSHIMARU_Etsuko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eutopia (Fade Away)",
+      "artist": "Example & Laidback Luke",
+      "has_synced": true,
+      "path": "select/11_Eutopia_(Fade_Away)_Example_&_Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eutopia",
+      "artist": "Example & Laidback Luke",
+      "has_synced": true,
+      "path": "select/12_Eutopia_Example_&_Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eutopia (Fade Away)",
+      "artist": "Example",
+      "has_synced": true,
+      "path": "select/13_Eutopia_(Fade_Away)_Example.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nornir (RADIO ONSEN EUTOPIA)",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/14_Nornir_(RADIO_ONSEN_EUTOPIA)_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lonely Planet (RADIO ONSEN EUTOPIA)",
+      "artist": "Yakushimaru Etsuko",
+      "has_synced": false,
+      "path": "select/15_Lonely_Planet_(RADIO_ONSEN_EUTOPIA)_Yakushimaru_Etsuko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eutopia",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "has_synced": false,
+      "path": "select/pl_01_Eutopia_鐘_嵐珠_(CV.法元明菜).txt"
+    }
+  ]
+}
